@@ -1,12 +1,12 @@
 .price {
   &-table {
-    // border: 1px solid #9496ad;
+    border: 1px solid #9496ad;
   }
 
   &-row {
-    // display: flex;
-     // flex-wrap: wrap;
-    // max-height: 290px;
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 290px;
   }
 
   &-description {
